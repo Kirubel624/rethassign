@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@trendmicro/react-sidenav": "^0.5.0",
+    "axios": "^1.2.0"
+  }
+}
